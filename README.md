@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 Hello, and welcome to my GitHub profile! 👋
 
-I'm a passionate React Developer with a strong focus on TypeScript, bringing 6 years of experience in creating 
+I'm a passionate React Developer with a strong focus on TypeScript, bringing 6 years of experience in creating modern, high-performance web applications.  
 
 ## Contact
 
