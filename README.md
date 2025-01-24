@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Skills
 
 - **Programming Languages:** JavaScript, TypeScript
-- **Web Development:** HTML, CSS, React, Node.js
+- **Web Development:** HTML, CSS, React, Next.js, Node.js
 - **Version Control:** Git, GitHub
 - **Software Development:** Agile methodologies, Test-Driven Development (TDD)
 - **Communication:** Team collaboration, Technical writing
