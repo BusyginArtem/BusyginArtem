@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a dedicated frontend developer with a passion for creating efficient and scalable web applications. With a strong foundation in both front-end and back-end technologies, I strive to deliver seamless user experiences and robust functionality.
+Hello, and welcome to my GitHub profile! 👋
+
+I'm a passionate React Developer with a strong focus on TypeScript, bringing 6 years of experience in creating 
 
 ## Contact
 
