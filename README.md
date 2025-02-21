@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artem Busyhin</h1>
 <h3 align="center">Experienced Frontend Developer | React Enthusiast | CSS Wizard</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=busyginartem&label=Profile%20views&color=0e75b6&style=flat" alt="busyginartem" /> </p>
-
-- 📫 How to reach me **artembusygin87@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/artem-busyhin-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artem-busyhin-developer" height="30" width="40" /></a>              
