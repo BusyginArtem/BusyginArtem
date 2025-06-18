@@ -11,7 +11,7 @@ class FrontendEngineer {
 
 ### Hi there, welcome to my GitHub page 👋!
 
-Hi there 👋 I'm Artem Busyhin, a Senior Frontend Engineer with over 6 years of professional experience in building modern, scalable web applications. I specialise in React, TypeScript, and Next.js, and I’m passionate about clean architecture, performance optimisation, and delivering exceptional user experiences.
+I'm Artem Busyhin, a Senior Frontend Engineer with over 6 years of professional experience in building modern, scalable web applications. I specialise in React, TypeScript, and Next.js, and I’m passionate about clean architecture, performance optimisation, and delivering exceptional user experiences.
 
 I began my career as a Fullstack Engineer at Drive Datum, working across the stack to build data-driven tools. Later, I joined SWEET.TV where I led frontend development for a high-traffic streaming platform. As a Senior Frontend Engineer at Uran Company, I helped re-architect and scale large B2B and B2C platforms using React, Redux, and Next.js.
 
