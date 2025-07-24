@@ -2,7 +2,7 @@
 class FrontendEngineer {
   constructor() {
     this.name = 'Artem Busyhin';
-    this.role = 'Senior Frontend Engineer';
+    this.role = 'Front-end Engineer';
     this.programmingLanguages = ['TypeScript', 'JavaScript'];
     this.frameworks = ['React', 'Next.js'];
   }
