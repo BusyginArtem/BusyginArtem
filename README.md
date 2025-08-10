@@ -26,6 +26,7 @@ I’m now looking for a Senior Frontend role where I can take ownership, contrib
 <p> 
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" /> 
   <img alt="React" src="https://img.shields.io/badge/React-56c4dc?logo=react&logoColor=white&style=for-the-badge" /> 
+  <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack_Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" /> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" /> 
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" /> 
